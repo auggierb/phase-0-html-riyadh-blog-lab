@@ -1,5 +1,5 @@
 HEADING
-
+<!DOCtype html= "en"
 `Welcome to Riyadh`
 
 SUB HEAD
